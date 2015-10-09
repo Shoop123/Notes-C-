@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\SaveNotes\SaveNotes\bin\Debug\SaveNotes.dll
+C:\Users\Daniel\Desktop\SaveNotes\SaveNotes\bin\Debug\SaveNotes.pdb
+C:\Users\Daniel\Desktop\SaveNotes\SaveNotes\obj\Debug\SaveNotes.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\SaveNotes\SaveNotes\obj\Debug\SaveNotes.dll
+C:\Users\Daniel\Desktop\SaveNotes\SaveNotes\obj\Debug\SaveNotes.pdb
+C:\Users\Daniel\Documents\Notes\SaveNotes\SaveNotes\bin\Debug\SaveNotes.dll
+C:\Users\Daniel\Documents\Notes\SaveNotes\SaveNotes\bin\Debug\SaveNotes.pdb
+C:\Users\Daniel\Documents\Notes\SaveNotes\SaveNotes\obj\Debug\SaveNotes.dll
+C:\Users\Daniel\Documents\Notes\SaveNotes\SaveNotes\obj\Debug\SaveNotes.pdb
+C:\Users\Daniel\Documents\Notes\SaveNotes\SaveNotes\obj\Debug\SaveNotes.csprojResolveAssemblyReference.cache

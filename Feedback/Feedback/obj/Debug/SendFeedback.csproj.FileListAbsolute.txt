@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Notes\Feedback\Feedback\bin\Debug\Feedback.dll
+C:\Users\Daniel\Documents\Notes\Feedback\Feedback\bin\Debug\Feedback.pdb
+C:\Users\Daniel\Documents\Notes\Feedback\Feedback\obj\Debug\Feedback.dll
+C:\Users\Daniel\Documents\Notes\Feedback\Feedback\obj\Debug\Feedback.pdb
+C:\Users\Daniel\Documents\Notes\Feedback\Feedback\obj\Debug\SendFeedback.csprojResolveAssemblyReference.cache
